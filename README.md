@@ -11,6 +11,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![No framework](https://img.shields.io/badge/Framework-none%20(vanilla)-333333?style=flat-square)
 
+![BYD Uzbekistan preview](assets/images/preview.png)
+
 </div>
 
 ---
@@ -23,12 +25,6 @@
 - 🍔 **Mobil burger-menyu** — kichik ekranlarda ochiladigan navigatsiya paneli
 - 🎯 **Slayd indikatori va yon panel ikonkalar** — texnik xususiyatlar, ranglar va 360° ko'rish uchun tayyor UI
 - ⚡ **Build-siz vanilla stack** — hech qanday freymvork yoki bundler talab qilmaydi, to'g'ridan-to'g'ri brauzerda ishlaydi
-
-## Ko'rinishi
-
-Hero bo'lim — asosiy sahifa:
-
-> `BYD Song Plus Champion` sarlavhasi, "Batafsil ma'lumot" / "Test-drayvga yozilish" tugmalari va pastda statistika paneli bilan.
 
 ## Loyiha tuzilmasi
 
